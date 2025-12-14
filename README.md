@@ -24,3 +24,4 @@ This project is a simple backend REST API built using Python and Flask.
 
 ## Testing
 All APIs were tested using Postman.
+
